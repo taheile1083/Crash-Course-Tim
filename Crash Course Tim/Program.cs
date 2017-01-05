@@ -10,6 +10,8 @@ namespace Crash_Course_Tim
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello, World!");
+            Console.Read();
         }
     }
 }
