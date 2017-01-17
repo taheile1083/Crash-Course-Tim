@@ -10,17 +10,6 @@ namespace Crash_Course_Tim
     {
         static void Main(string[] args)
         {
-            //DoStuff();
-            //DoStuff("Tim");
-            //string greeting = Greeting("Tim");
-            //Console.WriteLine(greeting);
-
-            //List<Car> cars = new List<Car>();
-            //cars.Add(new Car("Red"));
-            //foreach (Car car in cars)
-            //{
-            //    Console.WriteLine(car.Describe());
-            //}
             List<Dog> dogs = new List<Dog>();
             dogs.Add(new Dog("Fido","Blue"));
             dogs.Add(new Dog("Rex","Green"));
@@ -43,23 +32,35 @@ namespace Crash_Course_Tim
             }
             Console.Read();
         }
-
-        //public static void DoStuff()
-        //{
-        //    Console.WriteLine("Hello From DoStuff()");
-        //}
-
-        //public static void DoStuff(string name)
-        //{
-        //    Console.WriteLine("Hello " + name);
-        //}
-
-        //public static string Greeting(string name)
-        //{
-        //    return "Hello " + name;
-        //}
     }
 }
+
+
+//{
+//DoStuff();
+//DoStuff("Tim");
+//string greeting = Greeting("Tim");
+//Console.WriteLine(greeting);
+
+//List<Car> cars = new List<Car>();
+//cars.Add(new Car("Red"));
+//foreach (Car car in cars)
+//{
+//    Console.WriteLine(car.Describe());
+//}
+//}
+//public static void DoStuff()
+//{
+//    Console.WriteLine("Hello From DoStuff()");
+//}
+//public static void DoStuff(string name)
+//{
+//    Console.WriteLine("Hello " + name);
+//}
+//public static string Greeting(string name)
+//{
+//    return "Hello " + name;
+//}
 
 //Data Types, Console I/O
 //int year = 2017;

@@ -6,18 +6,18 @@ using System.Threading.Tasks;
 
 namespace Crash_Course_Tim
 {
-    class Dog:Animal
+    class Animal
     {
         // Attributes / Properties
         public string Name { get; set; }
         public string Color { get; set; }
-        public string Sound { get; set; }
+        //public string Sound { get; set; }
         //Constructor
-        public Dog(string name, string color)
+        public Animal(string name, string color)
         {
             this.Name = name;
             this.Color = color;
-            this.Sound = "Woof!";
+            //this.Sound = "Woof!";
         }
         //Methods
         public string Hello()
@@ -28,9 +28,9 @@ namespace Crash_Course_Tim
         {
             return "I am " + this.Color + ".";
         }
-        public string Speak()
-        {
-            return this.Sound;
-        }
+        //public string Speak()
+        //{
+        //    return this.Sound;
+        //}
     }
 }
