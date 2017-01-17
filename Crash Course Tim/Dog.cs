@@ -26,7 +26,7 @@ namespace Crash_Course_Tim
         }
         public string Describe()
         {
-            return "This dog is " + this.Color + ".";
+            return "I am " + this.Color + ".";
         }
         public string Speak()
         {

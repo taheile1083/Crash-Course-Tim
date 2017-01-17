@@ -14,51 +14,50 @@ namespace Crash_Course_Tim
             //DoStuff("Tim");
             //string greeting = Greeting("Tim");
             //Console.WriteLine(greeting);
-            addBinary(1, 2);
-            addBinary(1, 4);
-            addBinary(1, 6);
-            addBinary(1, 8);
-            List<Car> cars = new List<Car>();
-            cars.Add(new Car("Red"));
-            cars.Add(new Car("Blue"));
-            cars.Add(new Car("Green"));
-            cars.Add(new Car("Orange"));
-            cars.Add(new Car("Black"));
 
-            foreach (Car car in cars)
+            //List<Car> cars = new List<Car>();
+            //cars.Add(new Car("Red"));
+            //foreach (Car car in cars)
+            //{
+            //    Console.WriteLine(car.Describe());
+            //}
+            List<Dog> dogs = new List<Dog>();
+            dogs.Add(new Dog("Fido","Blue"));
+            dogs.Add(new Dog("Rex","Green"));
+            List<Cat> cats = new List<Cat>();
+            cats.Add(new Cat("Spot","Orange"));
+            cats.Add(new Cat("Fluffy","Black"));
+
+            foreach (Dog dog in dogs)
             {
-                Console.WriteLine(car.Describe());
+                Console.WriteLine(dog.Speak());
+                Console.WriteLine(dog.Hello());
+                Console.WriteLine(dog.Describe());
+            }
+
+            foreach (Cat cat in cats)
+            {
+                Console.WriteLine(cat.Speak());
+                Console.WriteLine(cat.Hello());
+                Console.WriteLine(cat.Describe());
             }
             Console.Read();
         }
 
-        public static void DoStuff()
-        {
-            Console.WriteLine("Hello From DoStuff()");
-        }
+        //public static void DoStuff()
+        //{
+        //    Console.WriteLine("Hello From DoStuff()");
+        //}
 
-        public static void DoStuff(string name)
-        {
-            Console.WriteLine("Hello " + name);
-        }
+        //public static void DoStuff(string name)
+        //{
+        //    Console.WriteLine("Hello " + name);
+        //}
 
-        public static string Greeting(string name)
-        {
-            return "Hello " + name;
-        }
-
-        public static void addBinary(int a,int b)
-        {
-            int dec = (a + b);
-            string bin = Convert.ToString(dec,2);
-            //for (int i = dec; i > 0;)
-            //{
-            //    int x = dec % 2;
-            //    bin = x.ToString() + bin;
-            //    i = dec - (dec / 2);
-            //}
-            Console.WriteLine(bin);
-        }
+        //public static string Greeting(string name)
+        //{
+        //    return "Hello " + name;
+        //}
     }
 }
 
