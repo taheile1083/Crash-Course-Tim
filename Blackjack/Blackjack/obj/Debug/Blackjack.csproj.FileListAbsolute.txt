@@ -1,0 +1,12 @@
+c:\users\theile1083\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\theile1083\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
+C:\Users\theile1083\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\theile1083\documents\visual studio 2015\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\theile1083\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\theile1083\documents\visual studio 2015\Projects\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\theile1083\Desktop\DWD278~\DWD278 - Dynamic Web Languages V (Tim Heilers)\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+C:\Users\theile1083\Desktop\DWD278~\DWD278 - Dynamic Web Languages V (Tim Heilers)\Blackjack\Blackjack\obj\Debug\Blackjack.exe
+C:\Users\theile1083\Desktop\DWD278~\DWD278 - Dynamic Web Languages V (Tim Heilers)\Blackjack\Blackjack\obj\Debug\Blackjack.pdb
+C:\Users\theile1083\Desktop\DWD278~\DWD278 - Dynamic Web Languages V (Tim Heilers)\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\theile1083\Desktop\DWD278~\DWD278 - Dynamic Web Languages V (Tim Heilers)\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\theile1083\Desktop\DWD278~\DWD278 - Dynamic Web Languages V (Tim Heilers)\Blackjack\Blackjack\obj\Debug\Blackjack.csprojResolveAssemblyReference.cache
