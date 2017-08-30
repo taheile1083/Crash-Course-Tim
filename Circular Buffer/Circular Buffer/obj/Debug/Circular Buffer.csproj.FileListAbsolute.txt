@@ -1,0 +1,6 @@
+c:\users\theile1083\documents\visual studio 2015\Projects\Circular Buffer\Circular Buffer\bin\Debug\Circular Buffer.exe.config
+c:\users\theile1083\documents\visual studio 2015\Projects\Circular Buffer\Circular Buffer\bin\Debug\Circular Buffer.exe
+c:\users\theile1083\documents\visual studio 2015\Projects\Circular Buffer\Circular Buffer\bin\Debug\Circular Buffer.pdb
+c:\users\theile1083\documents\visual studio 2015\Projects\Circular Buffer\Circular Buffer\obj\Debug\Circular Buffer.csprojResolveAssemblyReference.cache
+c:\users\theile1083\documents\visual studio 2015\Projects\Circular Buffer\Circular Buffer\obj\Debug\Circular Buffer.exe
+c:\users\theile1083\documents\visual studio 2015\Projects\Circular Buffer\Circular Buffer\obj\Debug\Circular Buffer.pdb
